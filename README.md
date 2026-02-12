@@ -1,10 +1,9 @@
 # BI_P4_AMAZON
 Data Analysis Project 4 (Power BI)
 ---
-# 📊 AMAZON SALES ANALYSIS – Power BI Project
----
+# SALES ANALYSIS
 
-# 📑 INDEX
+## 📑 Table of Contents
 
 1. [Domain](#domain)
 2. [Problem Statement](#problem-statement)
@@ -25,7 +24,7 @@ Data Analysis Project 4 (Power BI)
 
 ---
 
-# Domain
+## Domain
 
 **AMAZON Sales Analytics**
 
@@ -33,7 +32,7 @@ This project analyses synthetic e-commerce sales dataset that mimics Amazon-styl
 
 ---
 
-# Problem Statement
+## Problem Statement
 
 Amazon operates across multiple regions, product categories, and payment methods. The business has high transaction volumes but key insights remain hidden.
 
@@ -46,7 +45,7 @@ Decision-makers often lack clear insights into:
 
 ---
 
-# Aim
+## Aim
 
 By transforming raw transactional data into interactive, decision-ready dashboards, uncover patterns in payment methods, sales performance, customer ratings, profitability, revenue trends over time, and addressing region-level behaviour.
 
@@ -58,7 +57,7 @@ This project enables:
 
 ---
 
-# Key Challenges
+## Key Challenges
 
 * Difficulty in identifying top-performing vs underperforming categories.
 * Uneven sales and profit performance across regions.
@@ -81,7 +80,7 @@ This dataset is a **synthetic** e-commerce sales dataset generated using AI tool
 
 ---
 
-# Data Structure
+## Data Structure
 
 | Variable                  | Meaning                    | Formula / Logic                           |
 | ------------------------- | -------------------------- | ----------------------------------------- |
@@ -104,7 +103,7 @@ This dataset is a **synthetic** e-commerce sales dataset generated using AI tool
 
 ---
 
-# New Measures (DAX)
+## New Measures (DAX)
 
 ```DAX
 AVG COST = AVERAGE(Sheet1[total order cost])
@@ -144,7 +143,7 @@ SUM OF TOTAL REVENUE = SUM(Sheet1[total_revenue])
 
 ---
 
-# Solution Approach
+## Solution Approach
 
 * Data cleaning, inspection and validation
 * Feature engineering
@@ -155,11 +154,7 @@ SUM OF TOTAL REVENUE = SUM(Sheet1[total_revenue])
 
 ---
 
-# Dashboard 1: Sales and Profit Performance
-
-### Purpose
-
-Monitor overall business health and time-based performance.
+## Dashboard 1: Sales and Profit Performance
 
 ### What It Shows
 
@@ -193,7 +188,7 @@ Monitor overall business health and time-based performance.
 
 ---
 
-# Dashboard 2: Product and Category Profitability
+## Dashboard 2: Product and Category Profitability
 
 ### Key Insights
 
@@ -226,7 +221,7 @@ Monitor overall business health and time-based performance.
 * Scale high-profit categories, reprice margin-risk categories, and reassess underperformers.
 ---
 
-# Dashboard 3: Regional / Market Profitability
+## Dashboard 3: Regional / Market Profitability
 
 ### Key Insights
 
@@ -253,7 +248,7 @@ Monitor overall business health and time-based performance.
 
 ---
 
-# Dashboard 4: Customer and Transaction Profit Insights
+## Dashboard 4: Customer and Transaction Profit Insights
 
 ### Key Insights
 
@@ -280,7 +275,7 @@ Monitor overall business health and time-based performance.
 
 ---
 
-# Where We Can Apply
+## Where We Can Apply
 
 * E-commerce platforms
 * Retail & consumer goods companies
@@ -292,7 +287,7 @@ Monitor overall business health and time-based performance.
 
 ---
 
-# Expected Business Impact
+## Expected Business Impact
 
 * Improved visibility into performance
 * Optimized discount & pricing strategies
@@ -303,7 +298,7 @@ Monitor overall business health and time-based performance.
 
 ---
 
-# Future Scope & Advanced Analytics
+## Future Scope & Advanced Analytics
 
 Next phase: Predictive & Prescriptive Analytics
 
@@ -323,7 +318,7 @@ Implementation can include:
 
 ---
 
-# Conclusion
+## Conclusion
 
 This project demonstrates how Amazon sales data can be transformed into meaningful and actionable insights using Power BI and business analytics techniques.
 By analysing sales, revenue, products, regions, and customer feedback, organizations move from descriptive reporting to insight-driven decision-making, enabling competitive advantage.
