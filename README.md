@@ -155,6 +155,7 @@ SUM OF TOTAL REVENUE = SUM(Sheet1[total_revenue])
 ---
 
 ## Dashboard 1: Sales and Profit Performance
+<img width="1408" height="869" alt="DB1" src="https://github.com/user-attachments/assets/2782ba61-64fb-46e2-b9e0-eda8fc90c890" />
 
 ### What It Shows
 
@@ -189,6 +190,7 @@ SUM OF TOTAL REVENUE = SUM(Sheet1[total_revenue])
 ---
 
 ## Dashboard 2: Product and Category Profitability
+<img width="1395" height="847" alt="DB2" src="https://github.com/user-attachments/assets/e531d871-7bf1-4062-aa7c-3ac8996df7c4" />
 
 ### Key Insights
 
@@ -222,6 +224,7 @@ SUM OF TOTAL REVENUE = SUM(Sheet1[total_revenue])
 ---
 
 ## Dashboard 3: Regional / Market Profitability
+<img width="1404" height="847" alt="DB3" src="https://github.com/user-attachments/assets/1944e737-e1a3-4a79-a7c5-ff07a617d21a" />
 
 ### Key Insights
 
@@ -249,6 +252,7 @@ SUM OF TOTAL REVENUE = SUM(Sheet1[total_revenue])
 ---
 
 ## Dashboard 4: Customer and Transaction Profit Insights
+<img width="1405" height="849" alt="DB4" src="https://github.com/user-attachments/assets/28db36a4-0f6d-48d4-a860-da6539ceb627" />
 
 ### Key Insights
 
